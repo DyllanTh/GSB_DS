@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="chevaux_fiscaux" />
+    <string name="code_postal" />
+    <string name="adresse" />
+    <string name="numero" />
+    <string name="email" />
+    <string name="prenom" />
+    <string name="nom" />
+    <string name="logout">Logout</string>
 </resources>

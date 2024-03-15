@@ -1,4 +1,4 @@
-package com.example.gsb_ds;
+package com.example.myapplication;
 
 import org.junit.Test;
 
